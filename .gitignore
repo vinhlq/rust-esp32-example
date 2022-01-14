@@ -11,3 +11,10 @@ Cargo.lock
 *.pdb
 .idea/
 cmake-build-debug/
+
+
+# Added by cargo
+
+/target
+github.sh
+*.pem
